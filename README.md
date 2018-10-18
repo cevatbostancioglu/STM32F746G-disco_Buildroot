@@ -40,7 +40,12 @@ U-Boot is configured to write the Linux kernel in the SPI flash is the user butt
 
 Changelog
 ---------
-
+* 0.4 (will be done 19/10/2018)
+  * Docker Support added for build.
+  * Mistaken names fixed.
+  * glcd issues.
+  * maybe a better dts
+  * library building.
 * 0.3
   * U-Boot 2018.03-rc3
   * Linux 4.15.7
